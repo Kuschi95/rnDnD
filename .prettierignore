@@ -1,0 +1,11 @@
+node_modules
+.expo
+dist
+android
+ios
+coverage
+package-lock.json
+drizzle/meta
+firestore.rules
+.agents
+skills-lock.json
